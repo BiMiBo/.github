@@ -1,2 +1,2 @@
-<h3 align="center"><b>BiMiBo</b></h3>
-<p align="center"><b>Headless, microserives-driven, Open Source Learning Management System</b></p>
+<h3 align="center">BiMiBo</h3>
+<p>Headless, microservices-driven, Learning Management System</p>
