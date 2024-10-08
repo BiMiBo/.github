@@ -11,6 +11,8 @@ shopping cart.
 
 ## User Stories
 
+-   [ ] Student can create an account
+-   [ ] Student can activate an account via email
 -   [ ] Student can click on a `View Courses` button on the Landing Page to 
 display the Courses Page.
 -   [ ] Student can see a card on the Courses Page for each
@@ -45,3 +47,17 @@ amount reset to zero.
 -   [ ] Student can click a `See More Courses` button on the Shopping Cart Page
 to return to the Courses Page. If the order hasn't been placed yet this will
 not clear the courses already added to the Courses Page.
+
+
+-   [ ] Instructor can create an account
+-   [ ] Instructor can activate an account via email
+-   [ ] Instructor can add the image, name, title, and bio.
+-   [ ] Instructor can update own information (professional background, qualifications, subject matter expertise, or interests.)
+-   [ ] Instructor can build a Course Product
+-   [ ] Instructor can add/modify a Course Module
+-   [ ] Instructor can create a Course Lesson to the desired Module
+-   [ ] Instructor can include a description or additional content in the Body of a Course Lesson
+-   [ ] The instructor can select the media that they wish to attach to a course lesson.
+       * Text - Build content into the Lesson Body
+       * Video
+       * Assessment
