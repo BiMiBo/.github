@@ -9,7 +9,7 @@ selecting a course to purchase, viewing purchase information, adding it to
 an online shopping cart, and finally, actually purchasing the courses in the
 shopping cart.
 
-## User Stories
+## User Stories (Students)
 
 -   [ ] Student can create an account
 -   [ ] Student can activate an account via email
@@ -22,6 +22,8 @@ and a `Select` button.
 is clicked showing the same information from the course card, but also a 
 unique course id, a long description, `Add to Cart` button, and a 
 `See More Courses` button.
+-   [ ] Student can use `Add to Wishlist` button on the Course page.
+-   [ ] Student can see the list of Courses at the `Wishlist` page.
 -   [ ] Student can see a confirmation message when the course is added to the
 shopping cart.
 -   [ ] Student can click on the `See More Courses` page to return to the 
@@ -48,6 +50,7 @@ amount reset to zero.
 to return to the Courses Page. If the order hasn't been placed yet this will
 not clear the courses already added to the Courses Page.
 
+## User Stories (Instructors)
 
 -   [ ] Instructor can create an account
 -   [ ] Instructor can activate an account via email
